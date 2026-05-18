@@ -3,7 +3,7 @@ const https = require('https');
 // =============================================
 // ★ここを書き換えてください（3箇所）
 // =============================================
-const ACCESS_TOKEN   = 'b71f1a459a5412517b924c69646486e6';
+const ACCESS_TOKEN   = 'UeQfXuXMRBtj6CLS8+FMtJ+mGGHV9LFf+9b/xedP1sLtc4zZqaR9zM39+rfgOvoV19gxIspmqUblWw1KISdoOn3k3dQKr6RBToHv8wiOmQrn2HkKq2p6TCTT0TgGINRRiuq53bFDoAQq+f4fsnfTLgdB04t89/1O/w1cDnyilFU=';
 const SPREADSHEET_ID = '1-zsQ4WA3RwtGABSLHa1ZCiRJLDJLTnB_3dRlWuXin8c';
 const GAS_URL        = 'https://script.google.com/macros/s/AKfycbwPorj-QKQXKKSHm7EXXuqDYtEcYwvtYUqqW5zbC5_IIQH8rpH-FQmXmMdNgG_xcBPgqg/exec';
 // GAS_URL = スプレッドシートのGASのデプロイURL
