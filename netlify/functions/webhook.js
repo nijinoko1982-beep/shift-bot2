@@ -3,7 +3,7 @@ exports.handler = async (event) => {
     return { statusCode: 200, body: 'OK' };
   }
 
-  const ACCESS_TOKEN = 'UeQfXuXMRBtj6CLS8+FMtJ+mGGHV9LFf+9b/xedP1sLtc4zZqaR9zM39+rfgOvoV19gxIspmqUblWw1KISdoOn3k3dQKr6RBToHv8wiOmQrn2HkKq2p6TCTT0TgGINRRiuq53bFDoAQq+f4fsnfTLgdB04t89/1O/w1cDnyilFU=';
+  const ACCESS_TOKEN = 'jN1cM++5VyjCL8mTG7Oz2Ep2+yCkwPF5gRBNP16xEJitf33HXW7I+w552IAHIHez19gxIspmqUblWw1KISdoOn3k3dQKr6RBToHv8wiOmQqAZhOxIWmXjK84pUwnPyWY0353sMtO6dbw+v3Xsqr5BAdB04t89/1O/w1cDnyilFU=';
   const GAS_URL      = 'https://script.google.com/macros/s/AKfycbwZz52y-81yvTYt8wAXf_TXB_L-4xJy4D2kRc9oKiLPxCrDBWTI2tIVUzf6I4SnF76HQg/exec';
 
   const SHIFTS = [
