@@ -5,7 +5,7 @@ const https = require('https');
 // =============================================
 const ACCESS_TOKEN   = 'UeQfXuXMRBtj6CLS8+FMtJ+mGGHV9LFf+9b/xedP1sLtc4zZqaR9zM39+rfgOvoV19gxIspmqUblWw1KISdoOn3k3dQKr6RBToHv8wiOmQrn2HkKq2p6TCTT0TgGINRRiuq53bFDoAQq+f4fsnfTLgdB04t89/1O/w1cDnyilFU=';
 const SPREADSHEET_ID = '1-zsQ4WA3RwtGABSLHa1ZCiRJLDJLTnB_3dRlWuXin8c';
-const GAS_URL        = 'https://script.google.com/macros/s/AKfycbwPorj-QKQXKKSHm7EXXuqDYtEcYwvtYUqqW5zbC5_IIQH8rpH-FQmXmMdNgG_xcBPgqg/exec';
+const GAS_URL        = 'https://script.google.com/macros/s/AKfycbwZz52y-81yvTYt8wAXf_TXB_L-4xJy4D2kRc9oKiLPxCrDBWTI2tIVUzf6I4SnF76HQg/exec';
 // GAS_URL = スプレッドシートのGASのデプロイURL
 // 例: https://script.google.com/macros/s/xxx/exec
 
