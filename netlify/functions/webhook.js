@@ -3,9 +3,9 @@ const https = require('https');
 // =============================================
 // ★ここを書き換えてください（3箇所）
 // =============================================
-const ACCESS_TOKEN   = 'YOUR_ACCESS_TOKEN';
-const SPREADSHEET_ID = 'YOUR_SPREADSHEET_ID';
-const GAS_URL        = 'YOUR_GAS_URL';
+const ACCESS_TOKEN   = 'b71f1a459a5412517b924c69646486e6';
+const SPREADSHEET_ID = '1-zsQ4WA3RwtGABSLHa1ZCiRJLDJLTnB_3dRlWuXin8c';
+const GAS_URL        = 'https://script.google.com/macros/s/AKfycbwPorj-QKQXKKSHm7EXXuqDYtEcYwvtYUqqW5zbC5_IIQH8rpH-FQmXmMdNgG_xcBPgqg/exec';
 // GAS_URL = スプレッドシートのGASのデプロイURL
 // 例: https://script.google.com/macros/s/xxx/exec
 
